@@ -1,0 +1,9 @@
+# Docs repo — standard ignores
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*~
+node_modules/
+.vscode/
+.idea/
